@@ -1,0 +1,17 @@
+Sphinx笔记
+====================
+
+配置文档资源
+----------------
+新建目录并切换，利用sphinx-quickstart创建并配置工程::
+
+	mkdir D:\BaiduSyncdisk\Programming\sphinx\my_notebook
+	cd D:\BaiduSyncdisk\Programming\sphinx\my_notebook
+	sphinx-quickstart
+
+
+是否要创建独立的源文件和构建目录? 选y
+输入项目名称、作者等信息
+设置项目的语言，中文为zh_CN
+创建完成，目录结构为：
+image:: tree.webp
